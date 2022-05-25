@@ -293,7 +293,7 @@ html {
     height: 279px;
     padding-left: 37px;
     background-color: #ffffff;
-    left: calc(100vw - 990px);
+    right: calc(100vw/2 - 180px);
     top: 1390px;
     z-index: 10;
 }
